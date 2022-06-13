@@ -25,10 +25,15 @@ Open CMD
   -> kafka-topics.bat --list --bootstrap-server <DESKTOP_NAME>:9092
 
 6-> We have to Create Topic
-  Enter Command 
+  Enter Command
+      Without Partition
+    -> kafka-topics.bat --create --topic topic-name  --bootstrap-server <DESKTOP_NAME>:9092 
+      With Partition
     -> kafka-topics.bat --create --topic topic-name --partitions=2 --bootstrap-server <DESKTOP_NAME>:9092
   Describe Topic
     -> kafka-topics.bat --describe --topic topic-name --bootstrap-server <DESKTOP_NAME>:9092
+  Delete Topic
+    -> kafka-topics.bat --bootstrap-server <DESKTOP_NAME>:9092 --delete --topic topic-name
 
 7-> We have to Create Producer
   Enter Command 
