@@ -13,17 +13,17 @@ import com.kafka.api.model.User;
 @RequestMapping("kafka")
 public class UserController {
 	
-	@Autowired
-	KafkaTemplate<String, String> kafkaTemplate;
+//	@Autowired
+//	KafkaTemplate<String, String> kafkaTemplate;
 	private static final String TOPIC = "topic1";
 	
 	
-	@GetMapping("/publish/{message}")
-	public String postMessage(@PathVariable("message") final String message)
-	{
-		kafkaTemplate.send(TOPIC,message);
-		return "Publish Successfully";
-	}
+//	@GetMapping("/publish/{message}")
+//	public String postMessage(@PathVariable("message") final String message)
+//	{
+//		kafkaTemplate.send(TOPIC,message);
+//		return "Publish Successfully";
+//	}
 	
 
 	@Autowired

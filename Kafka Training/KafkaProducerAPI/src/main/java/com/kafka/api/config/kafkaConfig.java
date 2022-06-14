@@ -30,7 +30,7 @@ public class kafkaConfig {
 	}
 	
 	@Bean
-	public KafkaTemplate<String, User> kafkaTemplateUserConfig()
+	public KafkaTemplate<String, User> kafkaTemplateUser()
 	{
 		return new KafkaTemplate<String, User>(producerFactory());
 	}
