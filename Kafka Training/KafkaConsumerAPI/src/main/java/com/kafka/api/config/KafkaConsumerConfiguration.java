@@ -37,23 +37,23 @@ public class KafkaConsumerConfiguration {
 		return factory;
 	}
 
-	@Bean
-	public ConsumerFactory<String, User> userConsumerFactory()
-	{
-		
-		Map< String, Object> userConfig = new HashMap<String, Object>();
-		
-		userConfig.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, "localhost:9092");
-		userConfig.put(ConsumerConfig.GROUP_ID_CONFIG, "Group_Json");
-		userConfig.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class);
-		return new DefaultKafkaConsumerFactory<String, User>(userConfig, new StringDeserializer(), new JsonDeserializer<>(User.class));
-	}
-	
-	@Bean
-	public ConcurrentKafkaListenerContainerFactory<String, User> userConcurrentKafkaListenerContainerFactory() {
-		ConcurrentKafkaListenerContainerFactory<String, User> factory = new ConcurrentKafkaListenerContainerFactory<String, User>();
-		factory.setConsumerFactory(userConsumerFactory());
-		return factory;
-	}
+//	@Bean
+//	public ConsumerFactory<String, User> userConsumerFactory()
+//	{
+//		
+//		Map< String, Object> userConfig = new HashMap<String, Object>();
+//		
+//		userConfig.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, "localhost:9092");
+//		userConfig.put(ConsumerConfig.GROUP_ID_CONFIG, "Group_Json");
+//		userConfig.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class);
+//		return new DefaultKafkaConsumerFactory<String, User>(userConfig, new StringDeserializer(), new JsonDeserializer<>(User.class));
+//	}
+//	
+//	@Bean
+//	public ConcurrentKafkaListenerContainerFactory<String, User> userConcurrentKafkaListenerContainerFactory() {
+//		ConcurrentKafkaListenerContainerFactory<String, User> factory = new ConcurrentKafkaListenerContainerFactory<String, User>();
+//		factory.setConsumerFactory(userConsumerFactory());
+//		return factory;
+//	}
 
 }

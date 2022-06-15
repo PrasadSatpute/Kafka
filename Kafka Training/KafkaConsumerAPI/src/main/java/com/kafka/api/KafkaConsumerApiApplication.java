@@ -13,11 +13,11 @@ public class KafkaConsumerApiApplication {
 		SpringApplication.run(KafkaConsumerApiApplication.class, args);
 	}
 	
-	@Bean
-	public NewTopic createTopic()
-	{
-		System.out.println("New topic 3  created");
-		return TopicBuilder.name("topic3").build();
-	}
+//	@Bean
+//	public NewTopic createTopic()
+//	{
+//		System.out.println("New topic 3  created");
+//		return TopicBuilder.name("topic3").build();
+//	}
 
 }

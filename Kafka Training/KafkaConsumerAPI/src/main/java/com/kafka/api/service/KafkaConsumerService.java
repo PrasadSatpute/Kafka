@@ -14,10 +14,10 @@ public class KafkaConsumerService {
 		System.out.println("Consumed Message: "+message);
 	}
 	
-	@KafkaListener(topics = "topic1", groupId = "Group_Json", containerFactory = "userConcurrentKafkaListenerContainerFactory")
-	public void userConsume(User user)
-	{
-		System.out.println("Consumed JSON Message: "+user.toString());
-	}
+//	@KafkaListener(topics = "topic1", groupId = "Group_Json", containerFactory = "userConcurrentKafkaListenerContainerFactory")
+//	public void userConsume(User user)
+//	{
+//		System.out.println("Consumed JSON Message: "+user.toString());
+//	}
 	
 }

@@ -32,7 +32,7 @@ public class UserController {
 	@GetMapping("/publish/user/{name}")
 	public String postUser(@PathVariable("name") final String name)
 	{
-		kafkaTemplateUser.send(TOPIC,new User(name,"Technology",500000L));
+		kafkaTemplateUser.send(TOPIC,new User(name,"ABCD",55400000L));
 		return "Publish Successfully";
 	}
 	
