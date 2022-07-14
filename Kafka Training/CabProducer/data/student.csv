@@ -1,0 +1,541 @@
+studentid,name,department,subject,marks
+1,Amir,CS,DBMS,98
+2,Isbu Noor,IT,Networking,87
+3,Moshin Khan,CE,DBMS,74
+4,Amjath,IT,Networking,99
+5,Muntazir,IT,Security,81
+6,Nasim,IT,Networking,76
+7,Amir,CS,DBMS,98
+8,Isbu Noor,IT,Networking,87
+9,Moshin Khan,CE,DBMS,74
+10,Amjath,IT,Networking,99
+11,Muntazir,IT,Security,81
+12,Nasim,IT,Networking,76
+13,Amir,CS,DBMS,98
+14,Isbu Noor,IT,Networking,87
+15,Moshin Khan,CE,DBMS,74
+16,Amjath,IT,Networking,99
+17,Muntazir,IT,Security,81
+18,Nasim,IT,Networking,76
+19,Amir,CS,DBMS,98
+20,Isbu Noor,IT,Networking,87
+21,Moshin Khan,CE,DBMS,74
+22,Amjath,IT,Networking,99
+23,Muntazir,IT,Security,81
+24,Nasim,IT,Networking,76
+25,Amir,CS,DBMS,83.5942029
+26,Isbu Noor,IT,Networking,83.41507246
+27,Moshin Khan,CE,DBMS,83.23594203
+28,Amjath,IT,Networking,83.05681159
+29,Muntazir,IT,Security,82.87768116
+30,Nasim,IT,Networking,82.69855072
+31,Amir,CS,DBMS,82.51942029
+32,Isbu Noor,IT,Networking,82.34028986
+33,Moshin Khan,CE,DBMS,82.16115942
+34,Amjath,IT,Networking,81.98202899
+35,Muntazir,IT,Security,81.80289855
+36,Nasim,IT,Networking,81.62376812
+37,Amir,CS,DBMS,81.44463768
+38,Isbu Noor,IT,Networking,81.26550725
+39,Moshin Khan,CE,DBMS,81.08637681
+40,Amjath,IT,Networking,80.90724638
+41,Muntazir,IT,Security,80.72811594
+42,Nasim,IT,Networking,80.54898551
+43,Amir,CS,DBMS,80.36985507
+44,Isbu Noor,IT,Networking,80.19072464
+45,Moshin Khan,CE,DBMS,80.0115942
+46,Amjath,IT,Networking,79.83246377
+47,Muntazir,IT,Security,79.65333333
+48,Nasim,IT,Networking,79.4742029
+49,Amir,CS,DBMS,79.29507246
+50,Isbu Noor,IT,Networking,79.11594203
+51,Moshin Khan,CE,DBMS,78.93681159
+52,Amjath,IT,Networking,78.75768116
+53,Muntazir,IT,Security,78.57855072
+54,Nasim,IT,Networking,78.39942029
+55,Amir,CS,DBMS,78.22028986
+56,Isbu Noor,IT,Networking,78.04115942
+57,Moshin Khan,CE,DBMS,77.86202899
+58,Amjath,IT,Networking,77.68289855
+59,Muntazir,IT,Security,77.50376812
+60,Nasim,IT,Networking,77.32463768
+61,Amir,CS,DBMS,77.14550725
+62,Isbu Noor,IT,Networking,76.96637681
+63,Moshin Khan,CE,DBMS,76.78724638
+64,Amjath,IT,Networking,76.60811594
+65,Muntazir,IT,Security,76.42898551
+66,Nasim,IT,Networking,76.24985507
+67,Amir,CS,DBMS,76.07072464
+68,Isbu Noor,IT,Networking,75.8915942
+69,Moshin Khan,CE,DBMS,75.71246377
+70,Amjath,IT,Networking,75.53333333
+71,Muntazir,IT,Security,75.3542029
+72,Nasim,IT,Networking,75.17507246
+73,Amir,CS,DBMS,74.99594203
+74,Isbu Noor,IT,Networking,74.81681159
+75,Moshin Khan,CE,DBMS,74.63768116
+76,Amjath,IT,Networking,74.45855072
+77,Muntazir,IT,Security,74.27942029
+78,Nasim,IT,Networking,74.10028986
+79,Amir,CS,DBMS,73.92115942
+80,Isbu Noor,IT,Networking,73.74202899
+81,Moshin Khan,CE,DBMS,73.56289855
+82,Amjath,IT,Networking,73.38376812
+83,Muntazir,IT,Security,73.20463768
+84,Nasim,IT,Networking,73.02550725
+85,Amir,CS,DBMS,72.84637681
+86,Isbu Noor,IT,Networking,72.66724638
+87,Moshin Khan,CE,DBMS,72.48811594
+88,Amjath,IT,Networking,72.30898551
+89,Muntazir,IT,Security,72.12985507
+90,Nasim,IT,Networking,71.95072464
+91,Amir,CS,DBMS,71.7715942
+92,Isbu Noor,IT,Networking,71.59246377
+93,Moshin Khan,CE,DBMS,71.41333333
+94,Amjath,IT,Networking,71.2342029
+95,Muntazir,IT,Security,71.05507246
+96,Nasim,IT,Networking,70.87594203
+97,Amir,CS,DBMS,70.69681159
+98,Isbu Noor,IT,Networking,70.51768116
+99,Moshin Khan,CE,DBMS,70.33855072
+100,Amjath,IT,Networking,70.15942029
+101,Muntazir,IT,Security,69.98028986
+102,Nasim,IT,Networking,69.80115942
+103,Amir,CS,DBMS,69.62202899
+104,Isbu Noor,IT,Networking,69.44289855
+105,Moshin Khan,CE,DBMS,69.26376812
+106,Amjath,IT,Networking,69.08463768
+107,Muntazir,IT,Security,68.90550725
+108,Nasim,IT,Networking,68.72637681
+109,Amir,CS,DBMS,68.54724638
+110,Isbu Noor,IT,Networking,68.36811594
+111,Moshin Khan,CE,DBMS,68.18898551
+112,Amjath,IT,Networking,68.00985507
+113,Muntazir,IT,Security,67.83072464
+114,Nasim,IT,Networking,67.6515942
+115,Amir,CS,DBMS,67.47246377
+116,Isbu Noor,IT,Networking,67.29333333
+117,Moshin Khan,CE,DBMS,67.1142029
+118,Amjath,IT,Networking,66.93507246
+119,Muntazir,IT,Security,66.75594203
+120,Nasim,IT,Networking,66.57681159
+121,Amir,CS,DBMS,66.39768116
+122,Isbu Noor,IT,Networking,66.21855072
+123,Moshin Khan,CE,DBMS,66.03942029
+124,Amjath,IT,Networking,65.86028986
+125,Muntazir,IT,Security,65.68115942
+126,Nasim,IT,Networking,65.50202899
+127,Amir,CS,DBMS,65.32289855
+128,Isbu Noor,IT,Networking,65.14376812
+129,Moshin Khan,CE,DBMS,64.96463768
+130,Amjath,IT,Networking,64.78550725
+131,Muntazir,IT,Security,64.60637681
+132,Nasim,IT,Networking,64.42724638
+133,Amir,CS,DBMS,64.24811594
+134,Isbu Noor,IT,Networking,64.06898551
+135,Moshin Khan,CE,DBMS,63.88985507
+136,Amjath,IT,Networking,63.71072464
+137,Muntazir,IT,Security,63.5315942
+138,Nasim,IT,Networking,63.35246377
+139,Amir,CS,DBMS,63.17333333
+140,Isbu Noor,IT,Networking,62.9942029
+141,Moshin Khan,CE,DBMS,62.81507246
+142,Amjath,IT,Networking,62.63594203
+143,Muntazir,IT,Security,62.45681159
+144,Nasim,IT,Networking,62.27768116
+145,Amir,CS,DBMS,62.09855072
+146,Isbu Noor,IT,Networking,61.91942029
+147,Moshin Khan,CE,DBMS,61.74028986
+148,Amjath,IT,Networking,61.56115942
+149,Muntazir,IT,Security,61.38202899
+150,Nasim,IT,Networking,61.20289855
+151,Amir,CS,DBMS,61.02376812
+152,Isbu Noor,IT,Networking,60.84463768
+153,Moshin Khan,CE,DBMS,60.66550725
+154,Amjath,IT,Networking,60.48637681
+155,Muntazir,IT,Security,60.30724638
+156,Nasim,IT,Networking,60.12811594
+157,Amir,CS,DBMS,59.94898551
+158,Isbu Noor,IT,Networking,59.76985507
+159,Moshin Khan,CE,DBMS,59.59072464
+160,Amjath,IT,Networking,59.4115942
+161,Muntazir,IT,Security,59.23246377
+162,Nasim,IT,Networking,59.05333333
+163,Amir,CS,DBMS,58.8742029
+164,Isbu Noor,IT,Networking,58.69507246
+165,Moshin Khan,CE,DBMS,58.51594203
+166,Amjath,IT,Networking,58.33681159
+167,Muntazir,IT,Security,58.15768116
+168,Nasim,IT,Networking,57.97855072
+169,Amir,CS,DBMS,57.79942029
+170,Isbu Noor,IT,Networking,57.62028986
+171,Moshin Khan,CE,DBMS,57.44115942
+172,Amjath,IT,Networking,57.26202899
+173,Muntazir,IT,Security,57.08289855
+174,Nasim,IT,Networking,56.90376812
+175,Amir,CS,DBMS,56.72463768
+176,Isbu Noor,IT,Networking,56.54550725
+177,Moshin Khan,CE,DBMS,56.36637681
+178,Amjath,IT,Networking,56.18724638
+179,Muntazir,IT,Security,56.00811594
+180,Nasim,IT,Networking,55.82898551
+181,Amir,CS,DBMS,55.64985507
+182,Isbu Noor,IT,Networking,55.47072464
+183,Moshin Khan,CE,DBMS,55.2915942
+184,Amjath,IT,Networking,55.11246377
+185,Muntazir,IT,Security,54.93333333
+186,Nasim,IT,Networking,54.7542029
+187,Amir,CS,DBMS,54.57507246
+188,Isbu Noor,IT,Networking,54.39594203
+189,Moshin Khan,CE,DBMS,54.21681159
+190,Amjath,IT,Networking,54.03768116
+191,Muntazir,IT,Security,53.85855072
+192,Nasim,IT,Networking,53.67942029
+193,Amir,CS,DBMS,53.50028986
+194,Isbu Noor,IT,Networking,53.32115942
+195,Moshin Khan,CE,DBMS,53.14202899
+196,Amjath,IT,Networking,52.96289855
+197,Muntazir,IT,Security,52.78376812
+198,Nasim,IT,Networking,52.60463768
+199,Amir,CS,DBMS,52.42550725
+200,Isbu Noor,IT,Networking,52.24637681
+201,Moshin Khan,CE,DBMS,52.06724638
+202,Amjath,IT,Networking,51.88811594
+203,Muntazir,IT,Security,51.70898551
+204,Nasim,IT,Networking,51.52985507
+205,Amir,CS,DBMS,51.35072464
+206,Isbu Noor,IT,Networking,51.1715942
+207,Moshin Khan,CE,DBMS,50.99246377
+208,Amjath,IT,Networking,50.81333333
+209,Muntazir,IT,Security,50.6342029
+210,Nasim,IT,Networking,50.45507246
+211,Amir,CS,DBMS,50.27594203
+212,Isbu Noor,IT,Networking,50.09681159
+213,Moshin Khan,CE,DBMS,49.91768116
+214,Amjath,IT,Networking,49.73855072
+215,Muntazir,IT,Security,49.55942029
+216,Nasim,IT,Networking,49.38028986
+217,Amir,CS,DBMS,49.20115942
+218,Isbu Noor,IT,Networking,49.02202899
+219,Moshin Khan,CE,DBMS,48.84289855
+220,Amjath,IT,Networking,48.66376812
+221,Muntazir,IT,Security,48.48463768
+222,Nasim,IT,Networking,48.30550725
+223,Amir,CS,DBMS,48.12637681
+224,Isbu Noor,IT,Networking,47.94724638
+225,Moshin Khan,CE,DBMS,47.76811594
+226,Amjath,IT,Networking,47.58898551
+227,Muntazir,IT,Security,47.40985507
+228,Nasim,IT,Networking,47.23072464
+229,Amir,CS,DBMS,47.0515942
+230,Isbu Noor,IT,Networking,46.87246377
+231,Moshin Khan,CE,DBMS,46.69333333
+232,Amjath,IT,Networking,46.5142029
+233,Muntazir,IT,Security,46.33507246
+234,Nasim,IT,Networking,46.15594203
+235,Amir,CS,DBMS,45.97681159
+236,Isbu Noor,IT,Networking,45.79768116
+237,Moshin Khan,CE,DBMS,45.61855072
+238,Amjath,IT,Networking,45.43942029
+239,Muntazir,IT,Security,45.26028986
+240,Nasim,IT,Networking,45.08115942
+241,Amir,CS,DBMS,44.90202899
+242,Isbu Noor,IT,Networking,44.72289855
+243,Moshin Khan,CE,DBMS,44.54376812
+244,Amjath,IT,Networking,44.36463768
+245,Muntazir,IT,Security,44.18550725
+246,Nasim,IT,Networking,44.00637681
+247,Amir,CS,DBMS,43.82724638
+248,Isbu Noor,IT,Networking,43.64811594
+249,Moshin Khan,CE,DBMS,43.46898551
+250,Amjath,IT,Networking,43.28985507
+251,Muntazir,IT,Security,43.11072464
+252,Nasim,IT,Networking,42.9315942
+253,Amir,CS,DBMS,42.75246377
+254,Isbu Noor,IT,Networking,42.57333333
+255,Moshin Khan,CE,DBMS,42.3942029
+256,Amjath,IT,Networking,42.21507246
+257,Muntazir,IT,Security,42.03594203
+258,Nasim,IT,Networking,41.85681159
+259,Amir,CS,DBMS,41.67768116
+260,Isbu Noor,IT,Networking,41.49855072
+261,Moshin Khan,CE,DBMS,41.31942029
+262,Amjath,IT,Networking,41.14028986
+263,Muntazir,IT,Security,40.96115942
+264,Nasim,IT,Networking,40.78202899
+265,Amir,CS,DBMS,40.60289855
+266,Isbu Noor,IT,Networking,40.42376812
+267,Moshin Khan,CE,DBMS,40.24463768
+268,Amjath,IT,Networking,40.06550725
+269,Muntazir,IT,Security,39.88637681
+270,Nasim,IT,Networking,39.70724638
+271,Amir,CS,DBMS,39.52811594
+272,Isbu Noor,IT,Networking,39.34898551
+273,Moshin Khan,CE,DBMS,39.16985507
+274,Amjath,IT,Networking,38.99072464
+275,Muntazir,IT,Security,38.8115942
+276,Nasim,IT,Networking,38.63246377
+277,Amir,CS,DBMS,38.45333333
+278,Isbu Noor,IT,Networking,38.2742029
+279,Moshin Khan,CE,DBMS,38.09507246
+280,Amjath,IT,Networking,37.91594203
+281,Muntazir,IT,Security,37.73681159
+282,Nasim,IT,Networking,37.55768116
+283,Amir,CS,DBMS,37.37855072
+284,Isbu Noor,IT,Networking,37.19942029
+285,Moshin Khan,CE,DBMS,37.02028986
+286,Amjath,IT,Networking,36.84115942
+287,Muntazir,IT,Security,36.66202899
+288,Nasim,IT,Networking,36.48289855
+289,Amir,CS,DBMS,36.30376812
+290,Isbu Noor,IT,Networking,36.12463768
+291,Moshin Khan,CE,DBMS,35.94550725
+292,Amjath,IT,Networking,35.76637681
+293,Muntazir,IT,Security,35.58724638
+294,Nasim,IT,Networking,35.40811594
+295,Amir,CS,DBMS,35.22898551
+296,Isbu Noor,IT,Networking,35.04985507
+297,Moshin Khan,CE,DBMS,34.87072464
+298,Amjath,IT,Networking,34.6915942
+299,Muntazir,IT,Security,34.51246377
+300,Nasim,IT,Networking,34.33333333
+301,Amir,CS,DBMS,34.1542029
+302,Isbu Noor,IT,Networking,33.97507246
+303,Moshin Khan,CE,DBMS,33.79594203
+304,Amjath,IT,Networking,33.61681159
+305,Muntazir,IT,Security,33.43768116
+306,Nasim,IT,Networking,33.25855072
+307,Amir,CS,DBMS,33.07942029
+308,Isbu Noor,IT,Networking,32.90028986
+309,Moshin Khan,CE,DBMS,32.72115942
+310,Amjath,IT,Networking,32.54202899
+311,Muntazir,IT,Security,32.36289855
+312,Nasim,IT,Networking,32.18376812
+313,Amir,CS,DBMS,32.00463768
+314,Isbu Noor,IT,Networking,31.82550725
+315,Moshin Khan,CE,DBMS,31.64637681
+316,Amjath,IT,Networking,31.46724638
+317,Muntazir,IT,Security,31.28811594
+318,Nasim,IT,Networking,31.10898551
+319,Amir,CS,DBMS,30.92985507
+320,Isbu Noor,IT,Networking,30.75072464
+321,Moshin Khan,CE,DBMS,30.5715942
+322,Amjath,IT,Networking,30.39246377
+323,Muntazir,IT,Security,30.21333333
+324,Nasim,IT,Networking,30.0342029
+325,Amir,CS,DBMS,29.85507246
+326,Isbu Noor,IT,Networking,29.67594203
+327,Moshin Khan,CE,DBMS,29.49681159
+328,Amjath,IT,Networking,29.31768116
+329,Muntazir,IT,Security,29.13855072
+330,Nasim,IT,Networking,28.95942029
+331,Amir,CS,DBMS,28.78028986
+332,Isbu Noor,IT,Networking,28.60115942
+333,Moshin Khan,CE,DBMS,28.42202899
+334,Amjath,IT,Networking,28.24289855
+335,Muntazir,IT,Security,28.06376812
+336,Nasim,IT,Networking,27.88463768
+337,Amir,CS,DBMS,27.70550725
+338,Isbu Noor,IT,Networking,27.52637681
+339,Moshin Khan,CE,DBMS,27.34724638
+340,Amjath,IT,Networking,27.16811594
+341,Muntazir,IT,Security,26.98898551
+342,Nasim,IT,Networking,26.80985507
+343,Amir,CS,DBMS,26.63072464
+344,Isbu Noor,IT,Networking,26.4515942
+345,Moshin Khan,CE,DBMS,26.27246377
+346,Amjath,IT,Networking,26.09333333
+347,Muntazir,IT,Security,25.9142029
+348,Nasim,IT,Networking,25.73507246
+349,Amir,CS,DBMS,25.55594203
+350,Isbu Noor,IT,Networking,25.37681159
+351,Moshin Khan,CE,DBMS,25.19768116
+352,Amjath,IT,Networking,25.01855072
+353,Muntazir,IT,Security,24.83942029
+354,Nasim,IT,Networking,24.66028986
+355,Amir,CS,DBMS,24.48115942
+356,Isbu Noor,IT,Networking,24.30202899
+357,Moshin Khan,CE,DBMS,24.12289855
+358,Amjath,IT,Networking,23.94376812
+359,Muntazir,IT,Security,23.76463768
+360,Nasim,IT,Networking,23.58550725
+361,Amir,CS,DBMS,23.40637681
+362,Isbu Noor,IT,Networking,23.22724638
+363,Moshin Khan,CE,DBMS,23.04811594
+364,Amjath,IT,Networking,22.86898551
+365,Muntazir,IT,Security,22.68985507
+366,Nasim,IT,Networking,22.51072464
+367,Amir,CS,DBMS,22.3315942
+368,Isbu Noor,IT,Networking,22.15246377
+369,Moshin Khan,CE,DBMS,21.97333333
+370,Amjath,IT,Networking,21.7942029
+371,Muntazir,IT,Security,21.61507246
+372,Nasim,IT,Networking,21.43594203
+373,Amir,CS,DBMS,21.25681159
+374,Isbu Noor,IT,Networking,21.07768116
+375,Moshin Khan,CE,DBMS,20.89855072
+376,Amjath,IT,Networking,20.71942029
+377,Muntazir,IT,Security,20.54028986
+378,Nasim,IT,Networking,20.36115942
+379,Amir,CS,DBMS,20.18202899
+380,Isbu Noor,IT,Networking,20.00289855
+381,Moshin Khan,CE,DBMS,19.82376812
+382,Amjath,IT,Networking,19.64463768
+383,Muntazir,IT,Security,19.46550725
+384,Nasim,IT,Networking,19.28637681
+385,Amir,CS,DBMS,19.10724638
+386,Isbu Noor,IT,Networking,18.92811594
+387,Moshin Khan,CE,DBMS,18.74898551
+388,Amjath,IT,Networking,18.56985507
+389,Muntazir,IT,Security,18.39072464
+390,Nasim,IT,Networking,18.2115942
+391,Amir,CS,DBMS,18.03246377
+392,Isbu Noor,IT,Networking,17.85333333
+393,Moshin Khan,CE,DBMS,17.6742029
+394,Amjath,IT,Networking,17.49507246
+395,Muntazir,IT,Security,17.31594203
+396,Nasim,IT,Networking,17.13681159
+397,Amir,CS,DBMS,16.95768116
+398,Isbu Noor,IT,Networking,16.77855072
+399,Moshin Khan,CE,DBMS,16.59942029
+400,Amjath,IT,Networking,16.42028986
+401,Muntazir,IT,Security,16.24115942
+402,Nasim,IT,Networking,16.06202899
+403,Amir,CS,DBMS,15.88289855
+404,Isbu Noor,IT,Networking,15.70376812
+405,Moshin Khan,CE,DBMS,15.52463768
+406,Amjath,IT,Networking,15.34550725
+407,Muntazir,IT,Security,15.16637681
+408,Nasim,IT,Networking,14.98724638
+409,Amir,CS,DBMS,14.80811594
+410,Isbu Noor,IT,Networking,14.62898551
+411,Moshin Khan,CE,DBMS,14.44985507
+412,Amjath,IT,Networking,14.27072464
+413,Muntazir,IT,Security,14.0915942
+414,Nasim,IT,Networking,13.91246377
+415,Amir,CS,DBMS,13.73333333
+416,Isbu Noor,IT,Networking,13.5542029
+417,Moshin Khan,CE,DBMS,13.37507246
+418,Amjath,IT,Networking,13.19594203
+419,Muntazir,IT,Security,13.01681159
+420,Nasim,IT,Networking,12.83768116
+421,Amir,CS,DBMS,12.65855072
+422,Isbu Noor,IT,Networking,12.47942029
+423,Moshin Khan,CE,DBMS,12.30028986
+424,Amjath,IT,Networking,12.12115942
+425,Muntazir,IT,Security,11.94202899
+426,Nasim,IT,Networking,11.76289855
+427,Amir,CS,DBMS,11.58376812
+428,Isbu Noor,IT,Networking,11.40463768
+429,Moshin Khan,CE,DBMS,11.22550725
+430,Amjath,IT,Networking,11.04637681
+431,Muntazir,IT,Security,10.86724638
+432,Nasim,IT,Networking,10.68811594
+433,Amir,CS,DBMS,10.50898551
+434,Isbu Noor,IT,Networking,10.32985507
+435,Moshin Khan,CE,DBMS,10.15072464
+436,Amjath,IT,Networking,9.971594203
+437,Muntazir,IT,Security,9.792463768
+438,Nasim,IT,Networking,9.613333333
+439,Amir,CS,DBMS,9.434202899
+440,Isbu Noor,IT,Networking,9.255072464
+441,Moshin Khan,CE,DBMS,9.075942029
+442,Amjath,IT,Networking,8.896811594
+443,Muntazir,IT,Security,8.717681159
+444,Nasim,IT,Networking,8.538550725
+445,Amir,CS,DBMS,8.35942029
+446,Isbu Noor,IT,Networking,8.180289855
+447,Moshin Khan,CE,DBMS,8.00115942
+448,Amjath,IT,Networking,7.822028986
+449,Muntazir,IT,Security,7.642898551
+450,Nasim,IT,Networking,7.463768116
+451,Amir,CS,DBMS,7.284637681
+452,Isbu Noor,IT,Networking,7.105507246
+453,Moshin Khan,CE,DBMS,6.926376812
+454,Amjath,IT,Networking,6.747246377
+455,Muntazir,IT,Security,6.568115942
+456,Nasim,IT,Networking,6.388985507
+457,Amir,CS,DBMS,6.209855072
+458,Isbu Noor,IT,Networking,6.030724638
+459,Moshin Khan,CE,DBMS,5.851594203
+460,Amjath,IT,Networking,5.672463768
+461,Muntazir,IT,Security,5.493333333
+462,Nasim,IT,Networking,5.314202899
+463,Amir,CS,DBMS,5.135072464
+464,Isbu Noor,IT,Networking,4.955942029
+465,Moshin Khan,CE,DBMS,4.776811594
+466,Amjath,IT,Networking,4.597681159
+467,Muntazir,IT,Security,4.418550725
+468,Nasim,IT,Networking,4.23942029
+469,Amir,CS,DBMS,4.060289855
+470,Isbu Noor,IT,Networking,3.88115942
+471,Moshin Khan,CE,DBMS,3.702028986
+472,Amjath,IT,Networking,3.522898551
+473,Muntazir,IT,Security,3.343768116
+474,Nasim,IT,Networking,3.164637681
+475,Amir,CS,DBMS,2.985507246
+476,Isbu Noor,IT,Networking,2.806376812
+477,Moshin Khan,CE,DBMS,2.627246377
+478,Amjath,IT,Networking,2.448115942
+479,Muntazir,IT,Security,2.268985507
+480,Nasim,IT,Networking,2.089855072
+481,Amir,CS,DBMS,1.910724638
+482,Isbu Noor,IT,Networking,1.731594203
+483,Moshin Khan,CE,DBMS,1.552463768
+484,Amjath,IT,Networking,1.373333333
+485,Muntazir,IT,Security,1.194202899
+486,Nasim,IT,Networking,1.015072464
+487,Amir,CS,DBMS,0.835942029
+488,Isbu Noor,IT,Networking,0.656811594
+489,Moshin Khan,CE,DBMS,0.477681159
+490,Amjath,IT,Networking,0.298550725
+491,Muntazir,IT,Security,0.11942029
+492,Nasim,IT,Networking,-0.059710145
+493,Amir,CS,DBMS,-0.23884058
+494,Isbu Noor,IT,Networking,-0.417971014
+495,Moshin Khan,CE,DBMS,-0.597101449
+496,Amjath,IT,Networking,-0.776231884
+497,Muntazir,IT,Security,-0.955362319
+498,Nasim,IT,Networking,-1.134492754
+499,Amir,CS,DBMS,-1.313623188
+500,Isbu Noor,IT,Networking,-1.492753623
+501,Moshin Khan,CE,DBMS,-1.671884058
+502,Amjath,IT,Networking,-1.851014493
+503,Muntazir,IT,Security,-2.030144928
+504,Nasim,IT,Networking,-2.209275362
+505,Amir,CS,DBMS,-2.388405797
+506,Isbu Noor,IT,Networking,-2.567536232
+507,Moshin Khan,CE,DBMS,-2.746666667
+508,Amjath,IT,Networking,-2.925797101
+509,Muntazir,IT,Security,-3.104927536
+510,Nasim,IT,Networking,-3.284057971
+511,Amir,CS,DBMS,-3.463188406
+512,Isbu Noor,IT,Networking,-3.642318841
+513,Moshin Khan,CE,DBMS,-3.821449275
+514,Amjath,IT,Networking,-4.00057971
+515,Muntazir,IT,Security,-4.179710145
+516,Nasim,IT,Networking,-4.35884058
+517,Amir,CS,DBMS,-4.537971014
+518,Isbu Noor,IT,Networking,-4.717101449
+519,Moshin Khan,CE,DBMS,-4.896231884
+520,Amjath,IT,Networking,-5.075362319
+521,Muntazir,IT,Security,-5.254492754
+522,Nasim,IT,Networking,-5.433623188
+523,Amir,CS,DBMS,-5.612753623
+524,Isbu Noor,IT,Networking,-5.791884058
+525,Moshin Khan,CE,DBMS,-5.971014493
+526,Amjath,IT,Networking,-6.150144928
+527,Muntazir,IT,Security,-6.329275362
+528,Nasim,IT,Networking,-6.508405797
+529,Amir,CS,DBMS,-6.687536232
+530,Isbu Noor,IT,Networking,-6.866666667
+531,Moshin Khan,CE,DBMS,-7.045797101
+532,Amjath,IT,Networking,-7.224927536
+533,Muntazir,IT,Security,-7.404057971
+534,Nasim,IT,Networking,-7.583188406
+535,Amir,CS,DBMS,-7.762318841
+536,Isbu Noor,IT,Networking,-7.941449275
+536,Moshin Khan,CE,DBMS,-8.12057971
+536,Amjath,IT,Networking,-8.299710145
+536,Muntazir,IT,Security,-8.47884058
+536,Nasim,IT,Networking,-8.657971014
